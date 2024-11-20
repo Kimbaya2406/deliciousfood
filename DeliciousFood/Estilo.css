@@ -1,0 +1,35 @@
+input{
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border-style: ridge;
+    font-family: fantasy;
+
+}
+
+body{
+    background-color: beige;
+
+}
+
+label{
+    font-family: fantasy;
+    font-size: 80%;
+
+}
+
+select{
+
+ font-family: fantasy;
+ font-size: 80%;
+
+}
+
+div.center {
+
+
+    display: flex;
+    justify-content: center;
+
+    
+}
